@@ -1,0 +1,37 @@
+{
+  "name": "otaku-bot",
+  "version": "1.0.0",
+  "description": "Bot fait par Kawaii Alex",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "keywords": [
+    "otaku",
+    "discord.js",
+    "node.js",
+    "nodejs",
+    "botdiscord"
+  ],
+  "author": "KawaiiAlex",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "http": "0.0.0",
+    "kitsu.js": "^2.0.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "nani": "^1.2.0",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.1",
+    "string-similarity": "^1.2.0",
+    "superagent": "^3.8.3",
+    "weather-js": "^2.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
